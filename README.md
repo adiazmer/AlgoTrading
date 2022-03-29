@@ -2,7 +2,7 @@
 
 IndicadorPrecioVolumen
 
-Objetivos:
+#Objetivos:
 
 #Extraer la market data del mercado financiero mediante el uso de la libreria yfinance pertenecientes al sitio web "Yahoo Finance". Con el fin de analizar precio y volumen de un activo a eleccion. Luego transformar los datos con Pandas y los distintos DataFrames resultantes visualizarlos con la libreria Matplotlib y exportar los DataFrame creados a formato "csv".
 
